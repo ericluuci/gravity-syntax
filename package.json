@@ -1,0 +1,15 @@
+{
+  "name": "gravity-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Tester Syntax - Gravity Syntax",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ericluuci/gravity-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
